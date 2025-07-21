@@ -1,0 +1,39 @@
+## Build results
+bin/
+obj/
+out/
+
+## Rider
+.idea/
+*.sln.iml
+
+## VS Code
+.vscode/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## ASP.NET Core
+wwwroot/
+
+## Logs
+*.log
+
+## Database
+*.db
+*.mdf
+*.ldf
+
+## EF Core Migrations (opcional manter se quiser versionar)
+# Migrations/
+
+## Environment configs
+.env
+appsettings.Development.json
+secrets.json
+
+## NuGet
+*.nupkg*
